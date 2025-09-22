@@ -2,10 +2,6 @@
 
 > **Status:** Currently updating
 
-## Overview
-
-This repository is being actively developed for the SARE 2025 project. As graduating students are currently in their job search process, the repository is under continuous development and organization.
-
 ## Communication
 
 If you need any data or code from this project, please feel free to communicate with us. We will organize and release the requested materials in a timely manner.
@@ -24,10 +20,3 @@ If you need any data or code from this project, please feel free to communicate 
 **Version:** v3.1  
 **Source:** [PhysioNet MIMIC-IV](https://physionet.org/content/mimiciv/3.1/)
 
-## Contact
-
-For questions, data requests, or collaboration inquiries, please reach out through the appropriate channels.
-
----
-
-*This repository is maintained by graduating students and will be updated regularly as development progresses.*
